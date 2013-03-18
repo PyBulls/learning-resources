@@ -1,0 +1,15 @@
+- title: Khan Academy Computer Science
+  url: https://www.khanacademy.org/science/computer-science/
+  level: Beginning
+  cost: Free
+
+- title: Coursera Programming 2
+  url: https://www.coursera.org/course/programming2
+  level: Intermediate
+  cost: Free
+  notes: Guided (not self-paced)
+
+- title: Learn Python the Hard Way
+  url: https://www.udemy.com/learn-python-the-hard-way/
+  level: Beginning/Intermediate
+  cost: $29 USD
