@@ -26,7 +26,10 @@ A collection of resources for learning the Python programming language!
         cost: $29 USD
         level: Beginning/Intermediate
 
+<<<<<<< HEAD
+=======
 - [Coursera - Interactive Python](https://www.coursera.org/course/interactivepython)
+>>>>>>> 98c4e3de80f128e08c42b2be717f18b46e06b10d
 
         cost: Free
         level: Beginner
@@ -66,7 +69,10 @@ A collection of resources for learning the Python programming language!
         cost: Free
         level: Undergraduate
 
+<<<<<<< HEAD
 - [Udacity - Introduction to Computer Science](https://www.udacity.com/course/cs101)
+=======
+>>>>>>> 98c4e3de80f128e08c42b2be717f18b46e06b10d
 
         cost: Free
         level: no prior programming knowledge needed for this course
