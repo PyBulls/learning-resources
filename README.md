@@ -26,6 +26,51 @@ A collection of resources for learning the Python programming language!
         cost: $29 USD
         level: Beginning/Intermediate
 
+- Coursera: Interactive Python
+        URL: https://www.coursera.org/course/interactivepython
+        cost: Free
+        level: Beginner
+
+- [Learn Python the Hard Way](http://learnpythonthehardway.org/)
+
+        cost: Free. $29 to get PDFs and Videos.
+        level: Beginner
+
+- [Invent With Python](http://inventwithpython.com/)
+
+        cost: Read Online for free.  Buy the book for $17.24
+        level: Beginner
+
+- [Green Tea Press](http://greenteapress.com/)
+
+        cost: Free books!
+        level: Various
+
+- [Codecademy](http://www.codecademy.com/#!/exercises/0)
+
+        cost: Free
+        level: Beginner.  Great for kids!
+
+- [Dive Into Python](http://www.diveintopython.net/)
+
+        cost: Book available online
+        level: for experienced programmers
+
+- [Real Python](http://www.realpython.com/)
+
+        cost: View book for free online or $16 for print
+        level: for those who have finished learning basic Python and are ready to move on to web development.
+
+- [MIT Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/index.htm)
+
+        cost: Free
+        level: Undergraduate
+
+- [Udacity: Introduction to Computer Science](https://www.udacity.com/course/cs101)
+
+        cost: Free
+        level: no prior programming knowledge needed for this course
+
 
 
 ## Texts

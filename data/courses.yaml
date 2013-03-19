@@ -14,7 +14,7 @@
   level: Beginning/Intermediate
   cost: $29 USD
 
-- title: Coursera: Interactive Python
+- title: "Coursera: Interactive Python"
   URL: https://www.coursera.org/course/interactivepython
   level: Beginner
   cost: Free
@@ -54,7 +54,7 @@
   level: Undergraduate 
   cost: Free
 
-- title: Udacity: Introduction to Computer Science
+- title: "Udacity: Introduction to Computer Science"
   url: https://www.udacity.com/course/cs101
   level: "no prior programming knowledge needed for this course"
   cost: Free
