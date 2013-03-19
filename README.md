@@ -26,8 +26,8 @@ A collection of resources for learning the Python programming language!
         cost: $29 USD
         level: Beginning/Intermediate
 
-- Coursera: Interactive Python
-        URL: https://www.coursera.org/course/interactivepython
+- [Coursera: Interactive Python](https://www.coursera.org/course/interactivepython)
+
         cost: Free
         level: Beginner
 
