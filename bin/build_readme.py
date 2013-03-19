@@ -6,17 +6,7 @@ from jinja2 import Template
 import yaml
 
 
-README_TEMPLATE = Template("""
-
-# Python Learning Resources
-
-## Courses
-
-{% for course in courses -%}
-- {{ course.title }}
-{% endfor %}
-
-""")
+README_TEMPLATE = 'readme_template.md'
 
 
 def get_context():
@@ -28,8 +18,10 @@ def get_context():
     return context
 
 
-def main():
-    print README_TEMPLATE.render(**get_context())
+def main(template_file=README_TEMPLATE):
+    with open(os.path.join(os.path.dirname(__file__), template_file)) as f:
+        template = Template(f.read())
+    print template.render(**get_context())
 
 
 if __name__ == '__main__':
