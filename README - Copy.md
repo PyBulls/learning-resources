@@ -17,9 +17,9 @@ A collection of resources for learning the Python programming language!
 
 - [Coursera Programming 2](https://www.coursera.org/course/programming2)
 
+        notes: Guided (not self-paced)
         cost: Free
         level: Intermediate
-        notes: Guided (not self-paced)
 
 - [Learn Python the Hard Way](https://www.udemy.com/learn-python-the-hard-way/)
 
@@ -55,7 +55,6 @@ A collection of resources for learning the Python programming language!
 
         cost: Book available online
         level: for experienced programmers
-        notes: Book is great!
 
 - [Real Python](http://www.realpython.com/)
 
