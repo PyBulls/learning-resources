@@ -23,7 +23,7 @@ def get_context():
 def main(template_file=README_TEMPLATE):
     with open(os.path.join(SCRIPT_DIR, template_file)) as f:
         template = Template(f.read())
-    print template.render(**get_context())
+    print (template.render(**get_context()))
 
 
 if __name__ == '__main__':
