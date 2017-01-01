@@ -3,6 +3,21 @@
 
 A collection of resources for learning the Python programming language!
 
+## Kids'
+
+
+ - [Hello World!](http://amzn.to/2ix9Fz)
+  * url: http://amzn.to/2ix9Fz
+  * title: Hello World!
+  * cost: $34.42
+  * kids: True
+
+ - [Python for Kids A Playful Introduction to Programming](http://amzn.to/2iEIHD5)
+  * url: http://amzn.to/2iEIHD5
+  * title: Python for Kids A Playful Introduction to Programming
+  * cost: $23.52
+  * kids: True
+
 ## General Resources
 
 - [The Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/)
@@ -53,6 +68,16 @@ A collection of resources for learning the Python programming language!
 
 
 ## Texts
+
+- [Hello World!](http://amzn.to/2ix9Fz)
+
+        cost: $34.42
+        kids: True
+
+- [Python for Kids A Playful Introduction to Programming](http://amzn.to/2iEIHD5)
+
+        cost: $23.52
+        kids: True
 
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/)
 

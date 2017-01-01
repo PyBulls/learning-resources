@@ -1,3 +1,13 @@
+- title: Hello World!
+  url: http://amzn.to/2ix9Fz
+  cost: $34.42
+  kids: True
+
+- title: Python for Kids A Playful Introduction to Programming 
+  url: http://amzn.to/2iEIHD5
+  cost: $23.52
+  kids: True
+
 - title: Learn Python the Hard Way
   url: http://learnpythonthehardway.org/
   cost: Free

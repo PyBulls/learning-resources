@@ -3,6 +3,17 @@
 
 A collection of resources for learning the Python programming language!
 
+## Kids'
+{% for text in texts -%}
+{%- if text.kids %}
+
+ - [{{ text.title }}]({{ text.url }})
+{%- for key, value in text.items() %}
+  * {{ key }}: {{ value }}
+{%- endfor %}
+{%- endif %}
+{%- endfor %}
+
 ## General Resources
 
 {% for resource in general_resources -%}
