@@ -1,3 +1,29 @@
 - title: Learn Python the Hard Way
   url: http://learnpythonthehardway.org/
   cost: Free
+
+- title: Learn Python the Hard Way
+  url: https://www.udemy.com/learn-python-the-hard-way/
+  level: Beginning/Intermediate
+  cost: $29 USD
+
+- title: Invent With Python
+  cost: Read Online for free.  Buy the book for $17.24
+  url: http://inventwithpython.com/
+  level: Beginner
+
+- title: Green Tea Press
+  url: http://greenteapress.com/
+  level: Various
+  cost: Free books!
+
+- title: Dive Into Python
+  url: http://www.diveintopython.net/
+  level: "for experienced programmers"
+  cost: Book available online
+  notes: Book is great!
+
+- title: Real Python
+  url: http://www.realpython.com/
+  level: "for those who have finished learning basic Python and are ready to move on to web development."
+  cost: View book for free online or $16 for print
